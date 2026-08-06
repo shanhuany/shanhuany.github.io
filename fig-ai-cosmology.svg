@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280">
+<defs>
+  <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#111a28"/><stop offset="1" stop-color="#10253a"/></linearGradient>
+</defs>
+<rect width="640" height="280" rx="24" fill="url(#b)"/>
+<g stroke="#27445f" stroke-width="1.4">
+  <path d="M130 74L238 66L316 116L418 86L522 118"/>
+  <path d="M130 74L152 178L262 198L390 164L522 118"/>
+  <path d="M316 116L262 198"/><path d="M418 86L390 164"/>
+</g>
+<g fill="#eef7ff">
+  <circle cx="130" cy="74" r="7"/><circle cx="238" cy="66" r="7"/><circle cx="316" cy="116" r="7"/>
+  <circle cx="418" cy="86" r="7"/><circle cx="522" cy="118" r="7"/><circle cx="152" cy="178" r="7"/>
+  <circle cx="262" cy="198" r="7"/><circle cx="390" cy="164" r="7"/>
+</g>
+<g fill="none" stroke="#70d9f6" stroke-width="2.5">
+  <path d="M64 232C118 202 158 208 196 196C232 185 263 145 292 128C330 106 363 96 392 102C421 108 455 130 491 146C530 162 564 167 602 156"/>
+</g>
+<path d="M445 213c18-30 54-46 90-39" fill="none" stroke="#a695ff" stroke-width="2.5"/>
+<ellipse cx="518" cy="214" rx="62" ry="34" fill="none" stroke="#a695ff" stroke-width="2"/>
+<text x="28" y="34" fill="#70d9f6" font-family="Arial" font-size="17" letter-spacing="2">AI · COMPUTATIONAL COSMOLOGY</text>
+<text x="498" y="236" fill="#8ea6bb" font-family="Arial" font-size="12">posterior</text>
+</svg>

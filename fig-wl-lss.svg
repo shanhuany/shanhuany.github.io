@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280">
+<defs>
+  <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#0b2031"/><stop offset="1" stop-color="#173852"/></linearGradient>
+  <radialGradient id="glow" cx="50%" cy="45%" r="45%"><stop offset="0" stop-color="#70d9f6" stop-opacity=".65"/><stop offset="1" stop-color="#70d9f6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="640" height="280" rx="24" fill="url(#g1)"/>
+<circle cx="320" cy="138" r="86" fill="url(#glow)"/>
+<g stroke="#bfefff" stroke-opacity=".22" fill="none">
+  <path d="M35 210C120 150 180 235 250 165S390 95 450 140s115 40 155-10"/>
+  <path d="M20 80C110 130 165 40 245 95s145 95 225 65 120-15 150 30"/>
+</g>
+<g fill="none" stroke="#a695ff" stroke-width="2.2" opacity=".95">
+  <ellipse cx="320" cy="138" rx="118" ry="54"/>
+  <ellipse cx="320" cy="138" rx="74" ry="120" transform="rotate(90 320 138)"/>
+</g>
+<g fill="#e7f7ff" opacity=".9">
+  <ellipse cx="86" cy="58" rx="3" ry="7" transform="rotate(-25 86 58)"/>
+  <ellipse cx="130" cy="178" rx="2.5" ry="6.5" transform="rotate(18 130 178)"/>
+  <ellipse cx="522" cy="74" rx="2.5" ry="7.5" transform="rotate(31 522 74)"/>
+  <ellipse cx="552" cy="188" rx="2.5" ry="6.5" transform="rotate(-21 552 188)"/>
+  <ellipse cx="248" cy="48" rx="2.5" ry="6.8" transform="rotate(48 248 48)"/>
+  <ellipse cx="428" cy="230" rx="2.3" ry="6.1" transform="rotate(-38 428 230)"/>
+</g>
+<circle cx="320" cy="138" r="7" fill="#eef7ff"/>
+<text x="28" y="34" fill="#70d9f6" font-family="Arial" font-size="17" letter-spacing="2">WEAK LENSING · LSS</text>
+</svg>
